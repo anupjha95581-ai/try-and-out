@@ -1,23 +1,49 @@
-<h1 align="center">Hi 👋, I'm Anup Jha</h1>
-<h3 align="center">Building open-source tools & web apps</h3>
+# 👋 Hi, I'm Anup Jha
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anupjha95581-ai&label=Profile%20views&color=0e75b6&style=flat" alt="anupjha95581-ai" /> </p>
+### 💡 Full Stack & IoT Developer | C++ & Web Automation
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anupjha95581-ai" alt="anupjha95581-ai" /></a> </p>
+I love building full-stack web applications, IoT devices, and embedded system software with real-time hardware-to-cloud integration.
 
-- 🌱 I’m currently learning **DSA AND backend management**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base%3b4v5wkje8ss2v6r4qqqnhgw%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base%3b4v5wkje8ss2v6r4qqqnhgw%3d%3d" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/anup_jha_1845/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/anup_jha_1845/" height="30" width="40" /></a>
-</p>
+### 🚀 Projects & Work
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+* **IOT Home Automation:** ESP32-powered home automation demo featuring physical control sync, dual Wi-Fi (STA/AP) modes, and an integrated HTML dashboard/JSON API.
+* **ESP32 Walkie-Talkie:** 2-way peer-to-peer audio communication system using ESP-NOW, I2S microphones (INMP441), and amplifiers (MAX98357A).
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anupjha95581-ai&show_icons=true&locale=en&layout=compact" alt="anupjha95581-ai" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anupjha95581-ai&show_icons=true&locale=en" alt="anupjha95581-ai" /></p>
+### 🧠 Skills & Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anupjha95581-ai&" alt="anupjha95581-ai" /></p>
+**Languages**  
+![C](https://img.shields.io/badge/C-a8b9cc?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Frontend & Backend**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Databases & Cloud**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+![Anup's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anupjha95581-ai&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anupjha95581-ai&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anupjha95581-ai&theme=dark)
+
+---
+
+### 📫 How to reach me
+
+* **GitHub:** [anupjha95581-ai](https://github.com/anupjha95581-ai)
+* **Email:** anupjha95581@gmail.com
